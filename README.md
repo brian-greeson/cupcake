@@ -13,10 +13,9 @@ A small SwiftUI app used to learn and practice basic navigation and data flow.
 
 ### Screenshots
 <p>
-<img src="screenshots/1.png" height=500 />
-<img src="screenshots/2.png" height=500 />
-<img src="screenshots/3.png" height=500 />
-<img src="screenshots/4.png" height=500 />
+  <img src="screenshots/3.png" height=500 />
+  <img src="screenshots/2.png" height=500 />
+  <img src="screenshots/1.png" height=500 />
 </p>
 ### Run it
 
