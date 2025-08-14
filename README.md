@@ -12,11 +12,12 @@ A small SwiftUI app used to learn and practice basic navigation and data flow.
 - **Async image**: Loads a remote cupcake image with `AsyncImage` and a placeholder.
 
 ### Screenshots
-
-![Home](screenshots/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-08-14%20at%2011.48.50.png)
-![Address](screenshots/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-08-14%20at%2013.34.27.png)
-![Checkout](screenshots/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-08-14%20at%2013.34.58.png)
-
+<p>
+<img src="screenshots/1.png" height=500 />
+<img src="screenshots/2.png" height=500 />
+<img src="screenshots/3.png" height=500 />
+<img src="screenshots/4.png" height=500 />
+</p>
 ### Run it
 
 - **Requirements**: Xcode 15+ and iOS 17+ simulator or device.
